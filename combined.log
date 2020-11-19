@@ -1,0 +1,117 @@
+{"message":"::1 - - [18/Nov/2020:22:02:17 +0000] \"GET / HTTP/1.1\" 200 35 \"-\" \"PostmanRuntime/7.26.5\"\n","level":"error"}
+{"message":"test","level":"info"}
+{"message":"test","level":"info"}
+{"message":"::1 - - [18/Nov/2020:22:03:09 +0000] \"GET / HTTP/1.1\" 200 35 \"-\" \"PostmanRuntime/7.26.5\"\n","level":"error"}
+2020-11-18T22:06:01.017Z [undefined] info: test
+2020-11-18T22:06:01.019Z [undefined] info: test
+2020-11-18T22:06:01.023Z [undefined] error: ::1 - - [18/Nov/2020:22:06:01 +0000] "GET / HTTP/1.1" 200 35 "-" "PostmanRuntime/7.26.5"
+
+2020-11-18T22:07:04.684Z info: test
+2020-11-18T22:07:04.686Z info: test
+2020-11-18T22:07:04.690Z error: ::1 - - [18/Nov/2020:22:07:04 +0000] "GET / HTTP/1.1" 200 35 "-" "PostmanRuntime/7.26.5"
+
+2020-11-18T22:07:21.322Z info: test
+2020-11-18T22:07:21.324Z info: test
+2020-11-18T22:07:21.330Z error: ::1 - - [18/Nov/2020:22:07:21 +0000] "GET / HTTP/1.1" 200 35 "-" "PostmanRuntime/7.26.5"
+
+2020-11-18T22:08:44.337Z info: blaInfo
+2020-11-18T22:08:44.340Z error: blaError
+2020-11-18T22:08:44.345Z error: ::1 - - [18/Nov/2020:22:08:44 +0000] "GET / HTTP/1.1" 200 35 "-" "PostmanRuntime/7.26.5"
+
+2020-11-18T22:09:10.846Z info: blaInfo
+2020-11-18T22:09:10.849Z error: blaError
+2020-11-18T22:09:10.863Z error: ::1 - - [18/Nov/2020:22:09:10 +0000] "GET / HTTP/1.1" 200 35 "-" "PostmanRuntime/7.26.5"
+
+2020-11-18T22:09:30.493Z info: blaInfo
+2020-11-18T22:09:30.493Z error: blaError
+2020-11-18T22:09:30.494Z error: ::1 - - [18/Nov/2020:22:09:30 +0000] "GET / HTTP/1.1" 200 35 "-" "PostmanRuntime/7.26.5"
+
+2020-11-18T22:10:17.577Z info: blaInfo
+2020-11-18T22:10:17.579Z error: blaError
+2020-11-18T22:10:17.584Z info: ::1 - - [18/Nov/2020:22:10:17 +0000] "GET / HTTP/1.1" 200 35 "-" "PostmanRuntime/7.26.5"
+
+{
+  message: 'blaInfo',
+  level: 'info',
+  timestamp: '2020-11-18T22:11:17.876Z'
+}
+{
+  message: 'blaError',
+  level: 'error',
+  timestamp: '2020-11-18T22:11:17.881Z'
+}
+{
+  message: '::1 - - [18/Nov/2020:22:11:17 +0000] "GET / HTTP/1.1" 200 35 "-" "PostmanRuntime/7.26.5"\n',
+  level: 'info',
+  timestamp: '2020-11-18T22:11:17.886Z'
+}
+{ message: 'blaInfo', level: 'info' }
+{ message: 'blaError', level: 'error' }
+{
+  message: '::1 - - [18/Nov/2020:22:38:32 +0000] "GET / HTTP/1.1" 200 35 "-" "PostmanRuntime/7.26.5"\n',
+  level: 'info'
+}
+{ message: 'blaInfo', level: 'info' }
+{ message: 'blaError', level: 'error' }
+{
+  message: '::1 - - [18/Nov/2020:22:44:04 +0000] "GET / HTTP/1.1" 200 35 "-" "PostmanRuntime/7.26.5"\n',
+  level: 'info'
+}
+undefined info: blaInfo
+undefined error: blaError
+undefined info: ::1 - - [18/Nov/2020:22:44:18 +0000] "GET / HTTP/1.1" 200 35 "-" "PostmanRuntime/7.26.5"
+
+info: blaInfo
+error: blaError
+info: ::1 - - [18/Nov/2020:22:44:54 +0000] "GET / HTTP/1.1" 200 35 "-" "PostmanRuntime/7.26.5"
+
+Level: info$ 
+
+          Message: {message}
+Level: error$ 
+
+          Message: {message}
+Level: info$ 
+
+          Message: {message}
+Level: info$ 
+Message: {message}
+Level: error$ 
+Message: {message}
+Level: info$ 
+Message: {message}
+   Level: info$ 
+   Message: {message}
+   Level: error$ 
+   Message: {message}
+   Level: info$ 
+   Message: {message}
+
+   Level: info$ 
+   Message: {message}
+
+   Level: error$ 
+   Message: {message}
+
+   Level: info$ 
+   Message: {message}
+
+   Level: info 
+   Message: blaInfo
+
+   Level: error 
+   Message: blaError
+
+   Level: info 
+   Message: ::1 - - [18/Nov/2020:22:46:57 +0000] "GET / HTTP/1.1" 200 35 "-" "PostmanRuntime/7.26.5"
+
+
+   Level: [32minfo[39m 
+   Message: blaInfo
+
+   Level: [31merror[39m 
+   Message: blaError
+
+   Level: [32minfo[39m 
+   Message: ::1 - - [18/Nov/2020:22:49:27 +0000] "GET / HTTP/1.1" 200 35 "-" "PostmanRuntime/7.26.5"
+

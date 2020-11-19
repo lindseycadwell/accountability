@@ -1,0 +1,5 @@
+Set up morgan/winston combo
+learn relations/migrations with TypeORM
+learn how to do typescript interfaces / custom types 
+set up config/index.js config section
+set up loaders
